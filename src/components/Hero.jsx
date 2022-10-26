@@ -29,7 +29,7 @@ export const Hero = () => {
                         <p className='flex px-4 py-2 text-slate-500'> <CloudIcon className='h-6 text-indigo-600 px-2' />   App Security</p>
                         <p className='flex px-4 py-2 text-slate-500'> <ServerStackIcon className='h-6 text-indigo-600 px-2' />  Dashboard Designer</p>
                         <p className='flex px-4 py-2 text-slate-500'> <PaperAirplaneIcon className='h-6 text-indigo-600 px-2' /> Cloud Data</p>
-                        <p className='flex px-4 py-2 text-slate-500'> <CloudIcon className='h-6 text-indigo-600 px-2' /> API</p>
+                        <p className='flex px-4 py-2 text-slate-500'> <ServerIcon className='h-6 text-indigo-600 px-2' /> API</p>
                     </div>
                 </div>
             </div>
