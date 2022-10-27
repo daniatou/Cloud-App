@@ -3,7 +3,7 @@ import { PhoneIcon, ArrowRightIcon, CpuChipIcon, GlobeAltIcon } from '@heroicons
 import supportImage from '../images/support.jpg'
 export const Support = () => {
     return (
-        <div className='w-full  mt-32'>
+        <div name='support' className='w-full  mt-32'>
             <div className='w-full h-[700px] bg-gray-900/90 absolute'>
                 <img className='w-full h-full object-cover mix-blend-overlay' src={supportImage} alt="Support illustration" />
             </div>
