@@ -17,11 +17,11 @@ export const About = () => {
                         <p className='text-5xl text-indigo-500 font-bold'>100%</p>
                         <p className='text-gray-400 mt-4'>Completion</p>
                     </div>
-                    <div className='border py-8 rounded-xl hover:shadow-xl'>
+                    <div className='border py-8 rounded-xl shadow-md hover:shadow-xl'>
                         <p className='text-5xl text-indigo-500 font-bold'>24/7</p>
                         <p className='text-gray-400 mt-4'>Delivery</p>
                     </div>
-                    <div className='border py-8 rounded-xl hover:shadow-xl'>
+                    <div className='border py-8 rounded-xl shadow-md hover:shadow-xl'>
                         <p className='text-5xl text-indigo-500 font-bold'>100K</p>
                         <p className='text-gray-400 mt-4'>Transactions</p>
                     </div>
