@@ -9,7 +9,7 @@ export const About = () => {
                         Trusted By developpers across the world
                     </h2>
                     <p className='text-3xl text-gray-500 py-3'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum inventore, cupiditate dolores rerum quod commodi repellat aperiam dolor et excepturi!
+                        Lorem ipsum dolor sit amet. consectetur adipisicing elit. Eum inventore, cupiditate dolores rerum quod commodi repellat aperiam dolor et excepturi!
                     </p>
                 </div>
                 <div className='grid md:grid-cols-3 gap-2 px-1 text-center mt-5'>
